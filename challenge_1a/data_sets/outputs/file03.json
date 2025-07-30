@@ -1,0 +1,25 @@
+{
+  "title": "sample_with_bookmarks",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Introduction",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Chapter 1",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Chapter 2",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Conclusion",
+      "page": 4
+    }
+  ]
+}

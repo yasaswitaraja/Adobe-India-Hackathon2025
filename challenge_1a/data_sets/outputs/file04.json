@@ -1,0 +1,40 @@
+{
+  "title": "Financial_Literacy_for_Beginners",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Introduction to Financial Literacy",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Managing Your Money",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Savings and Emergency Funds",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Investing Basics",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Understanding Credit",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Debt Management",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Common Mistakes",
+      "page": 7
+    }
+  ]
+}
