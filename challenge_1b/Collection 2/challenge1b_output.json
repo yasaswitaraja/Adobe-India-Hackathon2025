@@ -1,0 +1,327 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Business Analysis.pdf",
+      "Educational Summary.pdf",
+      "Graph Neural Network.pdf"
+    ],
+    "persona": "Investment Analyst",
+    "job_to_be_done": "Evaluate the importance of content related to financial strategy and innovation in technology reports",
+    "processing_timestamp": "2025-07-28T19:26:40.002210"
+  },
+  "extracted_sections": [
+    {
+      "document": "Business Analysis.pdf",
+      "page_number": 1,
+      "section_title": "Business Analysis: Annual Reports of",
+      "importance_rank": 0.5274,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Business Analysis.pdf",
+      "page_number": 1,
+      "section_title": "This report summarizes and compares financial and strategic data extracted from three annual",
+      "importance_rank": 0.5262,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Business Analysis.pdf",
+      "page_number": 1,
+      "section_title": "reports (2022 –2024) of leading tech companies —Company A, Company B, and Company C.",
+      "importance_rank": 0.4671,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Business Analysis.pdf",
+      "page_number": 1,
+      "section_title": "Competing Tech Companies (2022 –",
+      "importance_rank": 0.3559,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Business Analysis.pdf",
+      "page_number": 3,
+      "section_title": "- Company B: 4.7%",
+      "importance_rank": 0.2779,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Business Analysis.pdf",
+      "page_number": 2,
+      "section_title": "2.2 Company B:",
+      "importance_rank": 0.2447,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Business Analysis.pdf",
+      "page_number": 2,
+      "section_title": "2.3 Company C:",
+      "importance_rank": 0.2398,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Business Analysis.pdf",
+      "page_number": 3,
+      "section_title": "- Company B: $6.5B (13%)",
+      "importance_rank": 0.2369,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Business Analysis.pdf",
+      "page_number": 3,
+      "section_title": "- Company C: 12.1%",
+      "importance_rank": 0.2343,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Business Analysis.pdf",
+      "page_number": 3,
+      "section_title": "- Company A: $11.2B (16%)",
+      "importance_rank": 0.2316,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Business Analysis.pdf",
+      "page_number": 3,
+      "section_title": "R&D Spending (2024):",
+      "importance_rank": 0.2049,
+      "language": "de",
+      "level": "H2"
+    },
+    {
+      "document": "Business Analysis.pdf",
+      "page_number": 1,
+      "section_title": "Introduction",
+      "importance_rank": 0.1841,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Business Analysis.pdf",
+      "page_number": 2,
+      "section_title": "- 2024 R&D: $13.4B (17.5%)",
+      "importance_rank": 0.1311,
+      "language": "de",
+      "level": "H2"
+    },
+    {
+      "document": "Business Analysis.pdf",
+      "page_number": 2,
+      "section_title": "- 2024 R&D: $6.5B (13%)",
+      "importance_rank": 0.1144,
+      "language": "de",
+      "level": "H2"
+    },
+    {
+      "document": "Business Analysis.pdf",
+      "page_number": 2,
+      "section_title": "- Focus: Custom silicon, quantum computing",
+      "importance_rank": 0.0553,
+      "language": "pt",
+      "level": "H2"
+    },
+    {
+      "document": "Educational Summary.pdf",
+      "page_number": 0,
+      "section_title": "Appendix: Chapters Reviewed",
+      "importance_rank": 0.145,
+      "language": "af",
+      "level": "H1"
+    },
+    {
+      "document": "Educational Summary.pdf",
+      "page_number": 1,
+      "section_title": "Activation Energy and Catalysts",
+      "importance_rank": 0.1111,
+      "language": "en",
+      "level": "H1"
+    },
+    {
+      "document": "Educational Summary.pdf",
+      "page_number": 0,
+      "section_title": "Tips for Exam Preparation",
+      "importance_rank": 0.1084,
+      "language": "en",
+      "level": "H1"
+    },
+    {
+      "document": "Educational Summary.pdf",
+      "page_number": 1,
+      "section_title": "Introduction to Reaction Kinetics",
+      "importance_rank": 0.0247,
+      "language": "en",
+      "level": "H1"
+    },
+    {
+      "document": "Educational Summary.pdf",
+      "page_number": 4,
+      "section_title": "Reaction Mechanisms",
+      "importance_rank": 0.0104,
+      "language": "en",
+      "level": "H1"
+    },
+    {
+      "document": "Educational Summary.pdf",
+      "page_number": 2,
+      "section_title": "Rate of Reaction",
+      "importance_rank": -0.026,
+      "language": "en",
+      "level": "H1"
+    },
+    {
+      "document": "Educational Summary.pdf",
+      "page_number": 0,
+      "section_title": "Experimental Determination of Rate Laws",
+      "importance_rank": -0.0656,
+      "language": "en",
+      "level": "H1"
+    },
+    {
+      "document": "Educational Summary.pdf",
+      "page_number": 3,
+      "section_title": "Rate Laws and Order of Reactions",
+      "importance_rank": -0.0752,
+      "language": "en",
+      "level": "H1"
+    },
+    {
+      "document": "Educational Summary.pdf",
+      "page_number": 0,
+      "section_title": "Kinetics of Common Organic Reactions",
+      "importance_rank": -0.0758,
+      "language": "en",
+      "level": "H1"
+    },
+    {
+      "document": "Graph Neural Network.pdf",
+      "page_number": 3,
+      "section_title": "Conclusion",
+      "importance_rank": 0.2105,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Graph Neural Network.pdf",
+      "page_number": 1,
+      "section_title": "Introduction",
+      "importance_rank": 0.1841,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Graph Neural Network.pdf",
+      "page_number": 1,
+      "section_title": "discovery. Traditional machine learning methods often fail to capture the complex structural",
+      "importance_rank": 0.1521,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Graph Neural Network.pdf",
+      "page_number": 3,
+      "section_title": "adaptability and expressiveness have surpassed traditional ML models.",
+      "importance_rank": 0.1276,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Graph Neural Network.pdf",
+      "page_number": 3,
+      "section_title": "GNNs represent a pivotal shift in computational drug discovery. From",
+      "importance_rank": 0.1049,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Graph Neural Network.pdf",
+      "page_number": 3,
+      "section_title": "For researchers in Computational Biology, focusing on architectures like",
+      "importance_rank": 0.0989,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Graph Neural Network.pdf",
+      "page_number": 3,
+      "section_title": "encoding molecular structures to predicting therapeutic effects, their",
+      "importance_rank": 0.0829,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Graph Neural Network.pdf",
+      "page_number": 1,
+      "section_title": "Graph Neural Networks (GNNs) have emerged as a transformative tool in computational drug",
+      "importance_rank": 0.0809,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Graph Neural Network.pdf",
+      "page_number": 2,
+      "section_title": "Performance Benchmarks",
+      "importance_rank": 0.0681,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Graph Neural Network.pdf",
+      "page_number": 1,
+      "section_title": "Networks for  Drug Discovery",
+      "importance_rank": 0.0662,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Graph Neural Network.pdf",
+      "page_number": 1,
+      "section_title": "Literature Review: Graph Neural",
+      "importance_rank": 0.0626,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Graph Neural Network.pdf",
+      "page_number": 2,
+      "section_title": "• Combines latent space modeling with graph reconstruction.",
+      "importance_rank": 0.0364,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Graph Neural Network.pdf",
+      "page_number": 2,
+      "section_title": "• Unsupervised approach for molecule generation and scaffold",
+      "importance_rank": -0.0039,
+      "language": "en",
+      "level": "H2"
+    },
+    {
+      "document": "Graph Neural Network.pdf",
+      "page_number": 2,
+      "section_title": "hopping.",
+      "importance_rank": -0.0176,
+      "language": "tl",
+      "level": "H2"
+    },
+    {
+      "document": "Graph Neural Network.pdf",
+      "page_number": 2,
+      "section_title": "4. Variational Graph Autoencoders (VGAE)",
+      "importance_rank": -0.0974,
+      "language": "en",
+      "level": "H2"
+    }
+  ],
+  "subsection_analysis": []
+}

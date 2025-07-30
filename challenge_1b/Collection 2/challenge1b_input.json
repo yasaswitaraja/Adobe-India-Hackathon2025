@@ -1,0 +1,36 @@
+[
+  {
+    "document": "Business Analysis.pdf",
+    "sections": [
+      { "title": "Overview", "page": 0 },
+      { "title": "Revenue Trends", "page": 1 },
+      { "title": "R&D Investments", "page": 2 },
+      { "title": "Market Positioning", "page": 3 },
+      { "title": "Summary", "page": 4 }
+    ]
+  },
+  {
+    "document": "Educational Summary.pdf",
+    "sections": [
+      { "title": "Introduction to Reaction Kinetics", "page": 0 },
+      { "title": "Rate of Reaction", "page": 1 },
+      { "title": "Rate Laws and Order of Reactions", "page": 2 },
+      { "title": "Reaction Mechanisms", "page": 3 },
+      { "title": "Activation Energy and Catalysts", "page": 4 },
+      { "title": "Kinetics of Common Organic Reactions", "page": 5 },
+      { "title": "Experimental Determination of Rate Laws", "page": 6 },
+      { "title": "Tips for Exam Preparation", "page": 7 },
+      { "title": "Appendix: Chapters Reviewed", "page": 8 }
+    ]
+  },
+  {
+    "document": "Graph Neural Network.pdf",
+    "sections": [
+      { "title": "Introduction", "page": 0 },
+      { "title": "Methodologies", "page": 1 },
+      { "title": "Datasets", "page": 2 },
+      { "title": "Benchmarks", "page": 3 },
+      { "title": "Conclusion", "page": 4 }
+    ]
+  }
+]
