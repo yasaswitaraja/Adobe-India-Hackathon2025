@@ -1,0 +1,62 @@
+{
+  "title": "Sample Document Title",
+  "outline": [
+    {
+      "heading": "Introduction",
+      "level": "H1",
+      "page": 1,
+      "subsections": [
+        {
+          "heading": "Background",
+          "level": "H2",
+          "page": 1,
+          "subsections": []
+        },
+        {
+          "heading": "Purpose of Study",
+          "level": "H2",
+          "page": 2,
+          "subsections": [
+            {
+              "heading": "Scope",
+              "level": "H3",
+              "page": 2,
+              "subsections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Methodology",
+      "level": "H1",
+      "page": 3,
+      "subsections": [
+        {
+          "heading": "Data Collection",
+          "level": "H2",
+          "page": 3,
+          "subsections": []
+        },
+        {
+          "heading": "Analysis Techniques",
+          "level": "H2",
+          "page": 4,
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "heading": "Results and Discussion",
+      "level": "H1",
+      "page": 5,
+      "subsections": []
+    },
+    {
+      "heading": "Conclusion",
+      "level": "H1",
+      "page": 10,
+      "subsections": []
+    }
+  ]
+}
